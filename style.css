@@ -1,0 +1,44 @@
+*{
+
+    text-align: center;
+    margin: 0%;
+    padding: 0%;
+    max-height: 100%;
+    max-width: 100%;
+}
+
+body{
+    margin: 10px;
+    padding: 10px;
+    display: grid;
+    background-color:seagreen;
+    background-position: center;
+
+}
+.fas,#Address{
+
+    display: inline;
+}
+
+img{
+
+
+    height: 300px;
+    border-radius: 300px;
+
+}
+a{
+
+    text-decoration: none;
+}
+th,td,thead,tbody{
+
+    width: 50%;
+    border: 2px solid black;
+    margin: 50%;
+}
+
+table{
+
+    border: 2px solid black;
+}
